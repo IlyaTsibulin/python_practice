@@ -1,0 +1,102 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "Rose",
+      "type": "Flower",
+      "blooming_season": "Spring"
+    },
+    {
+      "id": 2,
+      "name": "Oak",
+      "type": "Tree",
+      "blooming_season": "None"
+    },
+    {
+      "id": 3,
+      "name": "Tulip",
+      "type": "Flower",
+      "blooming_season": "Spring"
+    }
+  ],
+  "insects": [
+    {
+      "id": 1,
+      "name": "Butterfly",
+      "habitat": "Garden",
+      "lifespan": 2
+    },
+    {
+      "id": 2,
+      "name": "Ant",
+      "habitat": "Underground",
+      "lifespan": 1
+    },
+    {
+      "id": 3,
+      "name": "Dragonfly",
+      "habitat": "Pond",
+      "lifespan": 4
+    }
+  ],
+  "birds": [
+    {
+      "id": 1,
+      "name": "Robin",
+      "habitat": "Forest",
+      "average_lifespan": 5
+    },
+    {
+      "id": 2,
+      "name": "Eagle",
+      "habitat": "Mountains",
+      "average_lifespan": 15
+    },
+    {
+      "id": 3,
+      "name": "Penguin",
+      "habitat": "Antarctica",
+      "average_lifespan": 20
+    }
+  ],
+  "fish": [
+    {
+      "id": 1,
+      "name": "Salmon",
+      "habitat": "River",
+      "average_lifespan": 4
+    },
+    {
+      "id": 2,
+      "name": "Goldfish",
+      "habitat": "Pond",
+      "average_lifespan": 10
+    },
+    {
+      "id": 3,
+      "name": "Shark",
+      "habitat": "Ocean",
+      "average_lifespan": 25
+    }
+  ],
+  "mammals": [
+    {
+      "id": 1,
+      "name": "Lion",
+      "habitat": "Savannah",
+      "average_lifespan": 12
+    },
+    {
+      "id": 2,
+      "name": "Dolphin",
+      "habitat": "Ocean",
+      "average_lifespan": 25
+    },
+    {
+      "id": 3,
+      "name": "Kangaroo",
+      "habitat": "Grasslands",
+      "average_lifespan": 15
+    }
+  ]
+}
